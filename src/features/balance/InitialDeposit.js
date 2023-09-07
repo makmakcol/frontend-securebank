@@ -41,7 +41,7 @@ const InitialDeposit = () => {
         if (amount >= 25) {
             try {
                 await initialDeposit({ amount, username })
-                navigate('/users')
+                navigate('/login')
             } catch (err) {
                 console.error("Error making initial deposit", err)
             }
