@@ -55,7 +55,7 @@ return (
         <Card>
             <CardContent>
             <Typography variant="h5" component="div">
-              Please make an initial deposit of at least $25 to proceed
+              Please make an initial deposit of $25 to proceed
             </Typography>
                 {isLoading ? (
                      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
