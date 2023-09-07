@@ -1,0 +1,123 @@
+/* MySideBar.css */
+.title-container {
+    display: flex;
+    position: absolute;  
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 20px; 
+    margin-bottom: 50px; 
+    z-index: 2;  
+}
+.sidebar {
+    padding: 1em;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 100px;
+    overflow-y: hidden;
+    transition: all 0.5s ease;
+    z-index: 1;
+}
+.toggle-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    left: auto;
+    z-index: 3;
+}
+.sidebar.open {
+    width: 250px;
+    background-color: #141414;
+    color: #e0e0e0;
+}
+.sidebar.closed {
+    width: 60px;
+    background-color: #141414;
+}
+
+.sidebar.dark-theme {
+    background-color: #141414;
+    color: #e0e0e0;
+  }
+  
+  .sidebar.light-theme {
+    background-color: #e0e0e0;
+    color: #141414;
+  }
+
+
+
+
+.title, .subtitle {
+    text-align: left;
+    white-space: nowrap; /* To prevent text from breaking into new lines */
+    overflow: hidden; /* To prevent text overflow */
+    text-overflow: ellipsis; /* To show '...' for overflowed text */
+    color: white;
+}
+
+.link {
+    padding: 0.5em;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.link.dark-theme {
+    color: #6666ff;
+}
+.link.light-theme {
+    color: #000099;
+}
+
+.link-icon {
+    margin-right: 10px;
+    color:#e0e0e0;
+}
+
+.icon-container {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.icon-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.icon-title {
+    text-align: left;
+    margin: 0;
+    flex-grow: 1;
+}
+.icon-item:hover .link-icon {
+    color: #6666ff;
+}
+
+.content {
+    margin-left: 260px;
+    padding: 1em;
+    width: calc(100% - 260px);
+}
+
+/* For screens smaller than 600px */
+
+@media (max-width: 600px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    .content {
+        margin-left: 0;
+        width: 100%
+    }
+}
