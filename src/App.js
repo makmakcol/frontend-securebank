@@ -47,6 +47,7 @@ const hideNavbar = excludedPaths.includes(location.pathname);
             <Route path="/" element={<Public />} />
             <Route path="/login" element={<Login />} />
             <Route path="/createaccount" element={<CreateAccount />} />
+            <Route path="/initial-deposit" element={<InitialDeposit />} />
 
             {/* Protected Routes */}
             <Route element={<PersistLogin />}>
@@ -67,7 +68,6 @@ const hideNavbar = excludedPaths.includes(location.pathname);
 
             <Route path="balance">
               <Route index element={<BalanceList />} />
-              <Route path="initial-deposit" element={<InitialDeposit />} />
             </Route>
 
             </Route>
