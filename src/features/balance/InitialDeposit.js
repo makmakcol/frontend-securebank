@@ -88,7 +88,8 @@ return (
                     </>
                 )}
                 {isError && <div>Error: {error?.message || 'An error occurred.'}</div>}
-                {isSuccess && <div>Initial deposit successful! Your new balance is ${balance.entities[username]?.balance}</div> }
+               {isSuccess && <div>Initial deposit successful! Your new balance is ${balance?.entities[username]?.balance}</div>}
+
 
             </CardContent>
         </Card>
