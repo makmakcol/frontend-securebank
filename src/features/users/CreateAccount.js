@@ -50,7 +50,7 @@ const CreateAccount = () => {
 
     useEffect(() => {
         if (isSuccess) {
-            navigate('/balance/initial-deposit')
+            navigate('/initial-deposit')
         }
     }, [isSuccess, navigate])
 
