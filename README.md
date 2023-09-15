@@ -40,7 +40,7 @@ Check out the application!
          - Initial Deposit Page
          - Login Page
 
- 2. Private/Authenticated Views
+ 2.  Private/Authenticated Views
          - Dashboard Page
          - Account Balance Page
          - Bar and Pie Chart Pages (showcasing real user data)
@@ -77,14 +77,14 @@ Check out the application!
   
 
 ⚒️ TECH STACK
-     - React: Building dynamic user interfaces
-     -  Redux Toolkit: Centralized and efficient state management
-     -  RTK Query: Streamlining data fetching and interactions with the backend 
+     React: Building dynamic user interfaces
+     Redux Toolkit: Centralized and efficient state management
+     RTK Query: Streamlining data fetching and interactions with the backend 
 
 🎨 STYLING
-     - Material UI: Incorporating a cohesive design with customizable components 
-     - Formik: Crafting robust and interactive forms
-     - Nivo Charts: Presenting data in visually engaging formats 
+     Material UI: Incorporating a cohesive design with customizable components 
+     Formik: Crafting robust and interactive forms
+     Nivo Charts: Presenting data in visually engaging formats 
 
 🚀 FUTURE IMPROVEMENTS
 
