@@ -35,11 +35,11 @@ Check out the application!
 📄 PAGES
 
 1. Public Views
-         - Landing Page
-         - Create Account Page
-         - Initial Deposit Page
-         - Login Page
-
+   - Landing Page
+   - Create Account Page
+   - Initial Deposit Page
+   - Login Page
+     
  2.  Private/Authenticated Views
          - Dashboard Page
          - Account Balance Page
