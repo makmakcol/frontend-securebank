@@ -40,13 +40,13 @@ Check out the application!
    - Initial Deposit Page
    - Login Page
      
- 2.  Private/Authenticated Views
-         - Dashboard Page
-         - Account Balance Page
-         - Bar and Pie Chart Pages (showcasing real user data)
-         - Mock Data Line and Geography Chart Pages
-         - Edit/Delete User Page
-         - All User Data Page
+2. Private/Authenticated Views
+   - Dashboard Page
+   - Account Balance Page
+   - Bar and Pie Chart Pages (showcasing real user data)
+   - Mock Data Line and Geography Chart Pages
+   - Edit/Delete User Page
+   - All User Data Page
 
 ⚙️ FEATURES
 
