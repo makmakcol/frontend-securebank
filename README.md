@@ -34,19 +34,19 @@ Check out the application!
 
 📄 PAGES
 
-  Public Views
-    1. Landing Page
-    2. Create Account Page
-    3. Initial Deposit Page
-    4. Login Page
+1. Public Views
+         - Landing Page
+         - Create Account Page
+         - Initial Deposit Page
+         - Login Page
 
-  Private/Authenticated Views
-    1. Dashboard Page
-    2. Account Balance Page
-    3. Bar and Pie Chart Pages (showcasing real user data)
-    4. Mock Data Line and Geography Chart Pages
-    5. Edit/Delete User Page
-    6. All User Data Page
+ 2. Private/Authenticated Views
+         - Dashboard Page
+         - Account Balance Page
+         - Bar and Pie Chart Pages (showcasing real user data)
+         - Mock Data Line and Geography Chart Pages
+         - Edit/Delete User Page
+         - All User Data Page
 
 ⚙️ FEATURES
 
@@ -77,14 +77,14 @@ Check out the application!
   
 
 ⚒️ TECH STACK
-     1. React: Building dynamic user interfaces
-     2. Redux Toolkit: Centralized and efficient state management
-     3. RTK Query: Streamlining data fetching and interactions with the backend 
+     - React: Building dynamic user interfaces
+     -  Redux Toolkit: Centralized and efficient state management
+     -  RTK Query: Streamlining data fetching and interactions with the backend 
 
 🎨 STYLING
-     1. Material UI: Incorporating a cohesive design with customizable components 
-     2. Formik: Crafting robust and interactive forms
-     3. Nivo Charts: Presenting data in visually engaging formats 
+     - Material UI: Incorporating a cohesive design with customizable components 
+     - Formik: Crafting robust and interactive forms
+     - Nivo Charts: Presenting data in visually engaging formats 
 
 🚀 FUTURE IMPROVEMENTS
 
