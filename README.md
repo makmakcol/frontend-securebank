@@ -87,13 +87,13 @@ Check out the application!
     
 🎨 STYLING
 1.  Material UI
-   - Incorporating a cohesive design with customizable components
+        - Incorporating a cohesive design with customizable components
      
 2.  Formik
-   - Crafting robust and interactive forms
+        - Crafting robust and interactive forms
      
 3.  Nivo Charts
-   - Presenting data in visually engaging formats
+        - Presenting data in visually engaging formats
 
 🚀 FUTURE IMPROVEMENTS
 
