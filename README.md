@@ -76,14 +76,24 @@ Check out the application!
      - Logout feature routing users back to the public landing page
        
 ⚒️ TECH STACK
-1. React: Building dynamic user interfaces
-2. Redux Toolkit: Centralized and efficient state management
-3. RTK Query: Streamlining data fetching and interactions with the backend 
+1. React
+   - Building dynamic user interfaces
+          
+2. Redux Toolkit
+   - Centralized and efficient state management
+     
+3. RTK Query
+   - Streamlining data fetching and interactions with the backend
     
 🎨 STYLING
-1.  Material UI: Incorporating a cohesive design with customizable components 
-2.  Formik: Crafting robust and interactive forms
-3.  Nivo Charts: Presenting data in visually engaging formats 
+1.  Material UI
+   - Incorporating a cohesive design with customizable components
+     
+2.  Formik
+   - Crafting robust and interactive forms
+     
+3.  Nivo Charts
+   - Presenting data in visually engaging formats
 
 🚀 FUTURE IMPROVEMENTS
 
