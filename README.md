@@ -3,8 +3,8 @@
 MERN FULLSTACK PROJECT -- FRONTEND
 
 Welcome to SECURE BANK frontend code repository! You are currently navigating through the frontend portion of my first MERN Fullstack portfolio project. 
-A key motif of this portfolio project is the seamless and clear communication between the frontend and backend, ensuring data persists consistently across interactions.
-A user-first approach is a key factor in this banking application. Easy and clear usability was paramount in developing the frontend code for this project.
+A key goal for this portfolio project is the seamless and clear communication between the frontend and backend, ensuring data persists consistently across interactions.
+A user-first approach was paramount in developing both the frontend and backend code in this banking application. This application is deployed on "Render: Cloud Application Hosting for Developers"-- the frontend is deployed as a static site. I hope you enjoy exploring and using SECURE BANK!
 
 ✅ HOW TO USE SECURE BANK
 
