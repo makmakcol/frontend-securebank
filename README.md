@@ -11,7 +11,7 @@ A user-first approach was paramount in developing both the frontend and backend 
 Check out the application!
 
 1. Landing on SECURE BANK
-     - Visit the Public Landing Page through this link: https://makcolonello-securebank.onrender.com/
+     - Visit the Public Landing Page through this link: https://makcolonello-securebank.onrender.com
        
 2. Creating Your Account
      - If you are new to SECURE BANK, click on the 'Create Account' button
