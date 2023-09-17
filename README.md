@@ -86,14 +86,15 @@ Check out the application!
    - Streamlining data fetching and interactions with the backend
     
 🎨 STYLING
-1.  Material UI
-        - Incorporating a cohesive design with customizable components
+
+1. Material UI
+   - Incorporating a cohesive design with customizable components
+          
+2. Formik
+   - Crafting robust and interactive forms
      
-2.  Formik
-        - Crafting robust and interactive forms
-     
-3.  Nivo Charts
-        - Presenting data in visually engaging formats
+3. Nivo Charts
+   - Presenting data in visually engaging formats
 
 🚀 FUTURE IMPROVEMENTS
 
