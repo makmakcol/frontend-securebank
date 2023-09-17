@@ -62,19 +62,18 @@ Check out the application!
     - Persistent logins with "Remember Me" feature
 
   3. Data Visualizations and Interactions
-    - Interactive Bar, Pie, Line, and Geography charts (Bar and Pie charts display real user data based on role permissions)
-    - Real-time display of user's first name on Dashboard header and user's first and last name plus roles on sidebar
+     - Interactive Bar, Pie, Line, and Geography charts (Bar and Pie charts display real user data based on role permissions)
+     - Real-time display of user's first name on Dashboard header and user's first and last name plus roles on sidebar
 
-  4. Functionalities and Notifications 
-    - Account balance management with deposit and withdrawal features
-    - Snackbar notifications for errors like insufficient balance or invalid inputs
-    - Edit/Delete user functionalities with user ID constraint and confirmatory dialogs
-    - Role-based display and edit permissions
+  4. Functionalities and Notifications
+     - Account balance management with deposit and withdrawal features
+     - Snackbar notifications for errors like insufficient balance or invalid inputs
+     - Edit/Delete user functionalities with user ID constraint and confirmatory dialogs
+     - Role-based display and edit permissions
 
-  5. Aesthetics and Connectivity 
-    - Footer links to personal GitHub, LinkedIN, and Email, stylized with CSS buttons
-    - Logout feature routing users back to the public landing page 
-  
+  5. Aesthetics and Connectivity
+     - Footer links to personal GitHub, LinkedIN, and Email, stylized with CSS buttons
+     - Logout feature routing users back to the public landing page 
 
 ⚒️ TECH STACK
      React: Building dynamic user interfaces
